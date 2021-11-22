@@ -1,2 +1,4 @@
 # stepik-auto-tests-course
-Home work for course
+Homework for course
+
+Autotest training project
